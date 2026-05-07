@@ -1,0 +1,15 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Debug Main no Terminal",
+      "request": "launch",
+      "mainClass": "io.github.vitormozer9.Main",
+      "projectName": "library",
+      "cwd": "${workspaceFolder}",
+      "console": "integratedTerminal",
+      "internalConsoleOptions": "neverOpen"
+    }
+  ]
+}
